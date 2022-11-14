@@ -1,1 +1,2 @@
 This is b.txt file
+Newline to b.txt file
